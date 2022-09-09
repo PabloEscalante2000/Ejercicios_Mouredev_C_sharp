@@ -10,3 +10,4 @@ C:\Users\USUARIO\CURSOS_DE_PROGRAMACION\Curso_Aplicaciones_I\Ejercicios_Mourodev
 C:\Users\USUARIO\CURSOS_DE_PROGRAMACION\Curso_Aplicaciones_I\Ejercicios_Mourodev\Ejercicios_Mourodev\obj\Debug\Ejercicios_Mourodev.exe
 C:\Users\USUARIO\CURSOS_DE_PROGRAMACION\Curso_Aplicaciones_I\Ejercicios_Mourodev\Ejercicios_Mourodev\obj\Debug\Ejercicios_Mourodev.pdb
 C:\Users\USUARIO\CURSOS_DE_PROGRAMACION\Curso_Aplicaciones_I\Ejercicios_Mourodev\Ejercicios_Mourodev\obj\Debug\Ejercicios_Mourodev.Form2.resources
+C:\Users\USUARIO\CURSOS_DE_PROGRAMACION\Curso_Aplicaciones_I\Ejercicios_Mourodev\Ejercicios_Mourodev\obj\Debug\Ejercicios_Mourodev.Form3.resources
