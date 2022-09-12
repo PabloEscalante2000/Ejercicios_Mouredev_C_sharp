@@ -18,3 +18,4 @@ C:\Users\USUARIO\CURSOS_DE_PROGRAMACION\Curso_Aplicaciones_I\Ejercicios_Mourodev
 C:\Users\USUARIO\CURSOS_DE_PROGRAMACION\Curso_Aplicaciones_I\Ejercicios_Mourodev\Ejercicios_Mourodev\bin\Debug\HtmlAgilityPack.xml
 C:\Users\USUARIO\CURSOS_DE_PROGRAMACION\Curso_Aplicaciones_I\Ejercicios_Mourodev\Ejercicios_Mourodev\obj\Debug\Ejercicios_Mourodev.Form6.resources
 C:\Users\USUARIO\CURSOS_DE_PROGRAMACION\Curso_Aplicaciones_I\Ejercicios_Mourodev\Ejercicios_Mourodev\obj\Debug\Ejercicios_Mourodev.csproj.CopyComplete
+C:\Users\USUARIO\CURSOS_DE_PROGRAMACION\Curso_Aplicaciones_I\Ejercicios_Mourodev\Ejercicios_Mourodev\obj\Debug\Ejercicios_Mourodev.Form7.resources
