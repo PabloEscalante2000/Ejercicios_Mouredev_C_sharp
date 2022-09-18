@@ -16,5 +16,44 @@ namespace Ejercicios_Mourodev
         {
             InitializeComponent();
         }
+
+        private void btnConvertir_Click(object sender, EventArgs e)
+        {
+            int mi_decimal = int.Parse(txtNumber.Text.Trim());
+
+            txtResult.Text = ""+dec_bin(mi_decimal);
+
+
+        }
+
+        int dec_bin(int a)
+        {
+            int res = 0;
+            double count = 0;
+
+            while (true)
+            {
+                if (a == 0 | a == 1)
+                {
+                    res = (int)(res + (a % 2) * Math.Pow(10, count));
+                    break;
+                }
+                else if (a % 2 == 0)
+                {
+                    a = a / 2;
+                    count++;
+                }
+                else if (a % 2 == 1)
+                {
+                    res = (int)(res + Math.Pow(10, count));
+                    a--;
+                    a /= 2;
+                    count++;
+                }
+                
+            }
+
+            return res;
+        }
     }
 }
